@@ -3,6 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Welcome message](#welcome)
 
 ## General info
 This project rises from simple process - communication.
